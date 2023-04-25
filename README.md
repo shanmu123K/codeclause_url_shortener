@@ -1,2 +1,2 @@
-#using PYSHORTENERS package 
+#by using Modules in PYTHON (#pyshorteners and tkinters)
 We  can perform the URLSHORTENER
